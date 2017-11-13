@@ -47,3 +47,7 @@ markup
 /Vagrantfile
 out
 /out/*
+bin
+/bin/*
+pkg
+/pkg/*
